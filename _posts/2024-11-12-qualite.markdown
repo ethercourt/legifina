@@ -6,6 +6,6 @@ img: Finance de White Minimalist Geometric Business Strategy Instagram Post.png
 alt: image-alt
 project-date: IA spécialisée
 client: IA généraliste
-category: Entrainement sur mesure
+category: Entrainement sur votre historique
 description: La qualité des rapports de due diligence peut varier en fonction des autres modèles d'IA, de la conversation, et de l'expertise en prompt de l'analyste, ce qui peut nuire à la cohérence des rapports et à leur comparabilité. Extraire des insights pertinents à partir de grandes quantités de données financières ou de documents sectoriels peut être complexe et entraîner des interprétations incomplètes.<br>Notre IA est configurée pour identifier les points clés dans les données fournies et les interpréter dans un contexte pertinent, facilitant ainsi la création de résumés financiers et sectoriels plus clairs et plus exploitables. En créant des rapports basés sur un modèle pré-entrainé spécialisé, la solution garantit une qualité constante, avec une couverture systématique des sections importantes, quel que soit votre compétence en prompt engineering.
 ---
