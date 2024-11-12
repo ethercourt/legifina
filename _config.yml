@@ -43,10 +43,10 @@ social:
     url: 
   - title: facebook
     url:
-  - title:
-    url: 
-  - title:
-    url: 
+  #- title:
+  #  url: 
+  #- title:
+  #  url: 
   - title: github
     url: http://github.com/jekyll
 
