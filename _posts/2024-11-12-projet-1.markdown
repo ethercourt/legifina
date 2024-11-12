@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2024-11-11
+img: cabin.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Les rapports de due diligence sont très longs et nécessitent des heures (parfois des jours) de recherche, d’analyse et de rédaction manuelle, ralentissant ainsi le processus d’évaluation des investissements.<br>En automatisant la génération de contenu structuré par section, la solution permet de produire des rapports en une fraction du temps, accélérant ainsi les prises de décision.
+---
