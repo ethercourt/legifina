@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: 
+    url: https://x.com/legifina 
   - title: facebook
     url:
   #- title:
@@ -48,7 +48,7 @@ social:
   #- title:
   #  url: 
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/ethercourt/legifina/
 
 # Postal address (add as many lines as necessary)
 address:
